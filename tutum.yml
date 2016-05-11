@@ -1,4 +1,4 @@
 hello-world:
-  image: tutum/hello-world
+  image: mantl/hello-world
   ports:
     - 80:80
